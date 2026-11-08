@@ -1,0 +1,14 @@
+E:\Project\Console Tyccon\CountdownGen\obj\Debug\net9.0\CountdownGen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Console Tyccon\CountdownGen\obj\Debug\net9.0\CountdownGen.AssemblyInfoInputs.cache
+E:\Project\Console Tyccon\CountdownGen\obj\Debug\net9.0\CountdownGen.AssemblyInfo.cs
+E:\Project\Console Tyccon\CountdownGen\obj\Debug\net9.0\CountdownGen.csproj.CoreCompileInputs.cache
+E:\Project\Console Tyccon\CountdownGen\bin\Debug\net9.0\CountdownGen.exe
+E:\Project\Console Tyccon\CountdownGen\bin\Debug\net9.0\CountdownGen.deps.json
+E:\Project\Console Tyccon\CountdownGen\bin\Debug\net9.0\CountdownGen.runtimeconfig.json
+E:\Project\Console Tyccon\CountdownGen\bin\Debug\net9.0\CountdownGen.dll
+E:\Project\Console Tyccon\CountdownGen\bin\Debug\net9.0\CountdownGen.pdb
+E:\Project\Console Tyccon\CountdownGen\obj\Debug\net9.0\CountdownGen.dll
+E:\Project\Console Tyccon\CountdownGen\obj\Debug\net9.0\refint\CountdownGen.dll
+E:\Project\Console Tyccon\CountdownGen\obj\Debug\net9.0\CountdownGen.pdb
+E:\Project\Console Tyccon\CountdownGen\obj\Debug\net9.0\CountdownGen.genruntimeconfig.cache
+E:\Project\Console Tyccon\CountdownGen\obj\Debug\net9.0\ref\CountdownGen.dll
